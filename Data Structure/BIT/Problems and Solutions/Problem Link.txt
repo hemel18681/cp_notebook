@@ -1,0 +1,4 @@
+1. String Query : https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/string-query-22/
+2. Binary Simulation : http://lightoj.com/volume_showproblem.php?problem=1080
+3. Curious Robin Hood : http://lightoj.com/volume_showproblem.php?problem=1112
+4. Shil and Round Numbers : https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/shil-and-round-numbers/

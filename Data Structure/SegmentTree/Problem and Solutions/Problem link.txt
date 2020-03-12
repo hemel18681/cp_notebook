@@ -1,0 +1,2 @@
+1. Curious Robin Hood : http://lightoj.com/volume_showproblem.php?problem=1112
+2. Array Queries : http://lightoj.com/volume_showproblem.php?problem=1082
