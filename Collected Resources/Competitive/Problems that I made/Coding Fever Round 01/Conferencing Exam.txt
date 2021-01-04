@@ -1,0 +1,33 @@
+									Conferencing Exam
+									Time Limit: 1sec.
+									Memory Limit: 256mb
+
+
+hemel18681 is sleeping at home. He is passing his daily life happily. He wakes up late at morning, play Apex Legends, watch movies and animes. As there is no class and exam for Corona virus, it feels like, he is the happiest person in the world. Today is another hot summer day but he is not happy anymore. When he wakes up at the morning, he saw that a message came into his mobile and that is, University is taking online exam and he is in a great danger. It feels like his worst luck is back again. Suddenly he got an idea, as this is an online exam so there is no one to check him. But it feels like it is not right, so he decided to contact with his faculty about his problem that he will not be able to give the online exam. His faculty considered his problem and give him an assignment instead of final exam where he will be able to use any kind of source to fulfill that assignment. There is only one question on that assignment and that is, "You will be given two number X and Y and you have to find the difference between the oddth term and eventh term (Here oddth term means sum of the first odd numbers until that term and same goes for eventh term, for better understanding see the clarification.)" So, he called you to help him for solving this problem. But there is a problem he forgot which value is for odd and which value is for even, but he knows that his faculty is very much "KONJUS" with marks so he will expect the less answer. Will you be able to help him? 
+
+Input:
+First line will contain an integer t (1<=t<=1000000), the number of test case.
+Next t lines will contain two number X and Y (1<=X, Y<=10^9). Where X and Y refers the sum of the first even or odd, X or Y numbers.
+Output:
+print the result for each test case.
+
+Sample Input 1:
+1
+1 2
+
+Sample Output 0:
+2
+
+Clarification:
+Sum of first 1 even number is 2 and sum of first 2 odd number is 4. So, the difference is 4-2 = 2.
+
+Sample Input 1:
+1
+4 5
+
+Sample Output 0:
+5
+
+Clarification:
+Sum of first 4 even number is 20 and sum of first 5 odd number is 25. So, the difference is 25-20 = 5.
+
